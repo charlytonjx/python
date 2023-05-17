@@ -1,2 +1,2 @@
-for lista in range(2, 9, 3):
+for lista in range(4, 9, 3):
  print(lista)
